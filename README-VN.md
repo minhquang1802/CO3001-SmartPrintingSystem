@@ -7,7 +7,7 @@
   <h3 align="center">Smart Printing System</h3>
 
   <p align="center">
-    A smart printing service for students at HCMUT!
+    Dịch vụ in ấn thông minh dành cho sinh viên ĐHBK!
     <!-- <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
@@ -23,6 +23,8 @@
 [![en](https://img.shields.io/badge/lang-en-green.svg)](https://github.com/snipee3007/SmartPrintingSystem/blob/main/README.md)
 [![vn](https://img.shields.io/badge/lang-vn-red.svg)](https://github.com/snipee3007/SmartPrintingSystem/blob/main/README-VN.md)
 [![con](https://img.shields.io/badge/contributors-blue)](https://github.com/snipee3007/SmartPrintingSystem/graphs/contributors)
+
+
 
 
 
@@ -55,19 +57,19 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## Về dự án
 
-The Student Smart Printing Service (HCMUT_SSPS) is a web-based designed to facilitate document printing for students within the university campuses. The system manages printers, printing actions, user accounts, and provides various administrative features.
+Dịch vụ in ấn thông minh dành cho sinh viên (HCMUT_SSPS) là một dịch vụ dựa trên web được thiết kế để tạo điều kiện thuận lợi cho việc in tài liệu cho sinh viên trong khuôn viên trường đại học. Hệ thống quản lý máy in, thao tác in, tài khoản người dùng và cung cấp nhiều tính năng quản trị khác nhau.
 
-Features:
-* Printing Documents: Upload file and specify printing properties (paper size, pages, one-/double-sided, copies, etc.).
-* File Type Restriction: Permitted file types are configured by the Student Printing Service Officer (SPSO).
-* Printing History: Students can view their printing logs for a specified time period.
-* Buy Pages: Ability to buy additional pages through the Buy Printing Pages feature. Online payment integration using BKPay system.
+Đặc trưng:
+* In tài liệu: Tải lên tệp và chỉ định các thuộc tính in (cỡ giấy, số trang, một mặt/hai mặt, bản sao, v.v.).
+* Hạn chế loại tệp được tải lên: Các loại tệp được phép do Nhân viên dịch vụ in ấn sinh viên (SPSO) cấu hình.
+* Lịch sử in ấn: Học sinh có thể xem nhật ký in ấn của mình trong một khoảng thời gian nhất định.
+* Mua trang: Khả năng mua trang bổ sung thông qua tính năng Mua trang in. Tích hợp thanh toán trực tuyến sử dụng hệ thống BKPay.
 
-We strive for excellence in providing the Student Smart Printing Service (HCMUT_SSPS), but we acknowledge that errors might occur. We kindly ask our users to bring any discrepancies, issues, or suggestions to our attention. Your feedback is invaluable in helping us enhance and refine the system for a better user experience.
+Chúng tôi không ngừng phấn đấu để cung cấp Dịch vụ In thông minh cho Sinh viên (HCMUT_SSPS) với chất lượng xuất sắc, nhưng chúng tôi nhận thức rằng có thể xảy ra các lỗi. Chúng tôi rất mong nhận được ý kiến phản hồi, vấn đề hoặc đề xuất từ người dùng. Phản hồi của bạn là quan trọng để chúng tôi có thể cải thiện và hoàn thiện hệ thống, mang lại trải nghiệm người dùng tốt hơn.
 
-After this section is guide on how to run our system.
+Sau phần này là hướng dẫn cách chạy hệ thống của chúng tôi.
 
 <!-- Use the `BLANK_README.md` to get started. -->
 
@@ -84,8 +86,8 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
-## About this Respository
-This repository contains folders:
+## Về Repository này
+Repository này bao gồm các thư mục:
 1. **Diagram:** 
     - Use-Case Diagram.
     - Activity Diagram.
@@ -94,17 +96,17 @@ This repository contains folders:
     - Layered Structure.
     - Component Diagram
 2. **Images:**
-    - Includes all images needed for rendering README.md
+    - Bao gồm tất cả hình ảnh cần thiết để hiển thị trong README.md.
 3. **Report:**
-    - Contains project report.
+    - Chứa nội dung báo cáo dự án.
 4. **Source:**
-    - Includes all source code of the project.
+    - Bao gồm toàn bộ mã nguồn của dự án.
 
-## User Interface 
-We are excited to present the Figma design for our print module MVP, a key component of the Student Smart Printing Service (HCMUT_SSPS). The design emphasizes user-friendly interactions and clear visual cues, ensuring a smooth and efficient printing experience. We welcome your insights and feedback.
+## Giao diện Người dùng
+Chúng tôi rất hứng thú để giới thiệu thiết kế Figma cho mô-đun in của chúng tôi - một phần quan trọng của Dịch vụ In thông minh cho Sinh viên (HCMUT_SSPS). Thiết kế này đặt nặng vào sự tương tác thân thiện với người dùng và các gợi ý hình ảnh rõ ràng, đảm bảo một trải nghiệm in ấn nhanh chóng và hiệu quả. Chúng tôi rất hoan nghênh ý kiến và phản hồi của bạn.
 * [Project user interface][Figma-url]
 
-## References
+## Tài liệu tham khảo
 * [Discriminate wireframe, mockup and prototype](https://thinhnotes.com/chuyen-nghe-ba/phan-biet-sketch-wireframe-mockup-va-prototype/)
 * [Use-case Diagram](https://thinhnotes.com/chuyen-nghe-ba/use-case-diagram-va-5-sai-lam-thuong-gap/)
 * [Usability Test](https://www.nngroup.com/articles/usability-testing-101/)
